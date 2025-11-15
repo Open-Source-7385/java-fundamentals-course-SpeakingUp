@@ -19,17 +19,17 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### **📖 Lección 1: ¿Qué es Java y la Programación? (5 minutos)**  
 **→ Descripción:** Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.  
-**→ Enlaces:** *Ver la lección (https://www.youtube.com/watch?v=example-link1)*  
-**→ Conclusiones Clave:** Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.  
-**→ Empieza a programar (abrir Replit - Hola mundo) (https://replit.com/@your-starter-java)**  
+**→ Enlaces:** *Ver la lección https://youtu.be/ltw-GPkNkdo*  
+**→ Conclusiones Clave:** Java se usa para aplicaciones y juegos; la programacion  es un concepto amplio que alberga la disciplina en las ciencias de  
+**→ Empieza a programar (abrir onlinegdb - Hola mundo) [(https://www.onlinegdb.com/)](https://onlinegdb.com/WO06Svo-Y)**  
 
 ---
 
-### **📖 Lección 2: Variables y tipos de datos (8 minutos)**  
+### **📖 Lección 2: Variables y tipos de datos (9 minutos)**  
 **→ Descripción:** Aprende a almacenar datos en Java usando variables.  
 **→ Enlaces:** *Ver la lección (https://www.youtube.com/watch?v=example-link2)*  
-**→ Conclusiones Clave:** Usa `int`, `String`; declara con `int age = 15;`  
-**→ Prácticas:** *Clic para programar (https://replit.com/@your-variables-java)*  
+**→ Conclusiones Clave:** Usa `int`, `String`; declara con `int age = 15;` usa el library Scanner para poder inicializar las variables.
+**→ Prácticas:** *Clic para programar https://onlinegdb.com/s8Wn_NO3o*  
 **→ ✨ ¡No es necesario registrarse!**
 
 ---
