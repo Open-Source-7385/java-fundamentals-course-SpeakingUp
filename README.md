@@ -66,7 +66,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### **📖 Lección 6: Errores y próximos pasos (10 minutos)**  
 **→ Descripción:** Mejores prácticas, errores comunes y dónde aprender más.  
-**→ Enlaces:** *Ver la lección (https://www.youtube.com/watch?v=example-link6)*  
+**→ Enlaces:** *Ver la lección (https://youtu.be/Akx5sEYuSjI)*  
 **→ Conclusiones Clave:** Leer errores; práctica con documentación de Oracle Java.  
 **→ Evalúa tu progreso:** *Examen (nuevo creador) (https://forms.gle/your-form)*
 
