@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e373518-d539-455c-9918-5350245c5099" /># Fundamentos de Java para Principiantes
+# Fundamentos de Java para Principiantes
 
 ## 📘 Resumen del Curso
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. **No requiere descargas:** ¡Sólo abre tu navegador web.
