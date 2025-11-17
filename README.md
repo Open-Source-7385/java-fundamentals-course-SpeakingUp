@@ -57,7 +57,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### **📖 Lección 5: Fundamentos de POO y programas sencillos (15 minutos)**  
 **→ Descripción:** Construye clases con atributos/métodos y crea un programa POO básico.  
-**→ Enlaces:** *Ver la lección (https://youtu.be/4dZwuB8b1uI)*  
+**→ Enlaces:** *Ver la lección (https://youtu.be/JAi-ncyUbaE)*  
 **→ Conclusiones Clave:** Encapsulación con getters y setters; construir un simulador de “mascotas”.  
 **→ Proyecto Final:** *Crea tu aplicación POO (https://replit.com/join/uxehkouypx-akamicontac10)*  
 **→ 💾 ¡Guarda y comparte!**
@@ -102,7 +102,7 @@ Universidad Peruana de Ciencias Aplicadas
 <br>**Integrantes del equipo**:
 <br>-Geronimo Quispe Pablo Antonio u202314304
 <br>-Vidal Malaga Jareth Beycker u202316878
-<br>- Nombre y Apellido
+<br>- Acosta Elera Abraam Bernabe u202219199
 <br>**Fecha de entrega:** 16/11/2025
 
 
