@@ -1,4 +1,4 @@
-# Fundamentos de Java para Principiantes
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e373518-d539-455c-9918-5350245c5099" /># Fundamentos de Java para Principiantes
 
 ## 📘 Resumen del Curso
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. **No requiere descargas:** ¡Sólo abre tu navegador web.
@@ -9,9 +9,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### 💻 Materiales necesarios: **¡Sólo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
 
 ### 📦 Repositorio de Código Fuente:  
-*https://github.com/yourusername/java-fundamentals-course*  
+*https://github.com/Open-Source-7385/java-fundamentals-course-SpeakingUp*  
 ### 🌐 Enlace del curso:  
-*https://github.com/yourusername/java-fundamentals-course-teamname*
+*https://github.com/Open-Source-7385/java-fundamentals-course-SpeakingUp*
 
 ---
 
@@ -19,7 +19,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### **📖 Lección 1: ¿Qué es Java y la Programación? (5 minutos)**  
 **→ Descripción:** Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.  
-**→ Enlaces:** *Ver la lección https://youtu.be/ltw-GPkNkdo*  
+**→ Enlaces:** *Ver la lección https://youtu.be/oTdzOhgG1HY*  
 **→ Conclusiones Clave:** Java se usa para aplicaciones y juegos; la programacion  es un concepto amplio que alberga la disciplina en las ciencias
 **→ Empieza a programar (abrir onlinegdb - Hola mundo) [(https://www.onlinegdb.com/)](https://onlinegdb.com/WO06Svo-Y)**  
 
