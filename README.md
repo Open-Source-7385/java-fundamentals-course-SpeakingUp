@@ -34,7 +34,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-### **📖 Lección 3: Estructuras de control: decisiones y bucles (10 minutos)**  
+### **📖 Lección 3: Estructuras de control: decisiones y bucles (13 minutos)**  
 **→ Descripción:** Toma decisiones con if-else y repite tareas con bucles.  
 **→ Enlaces:** *Ver la lección https://youtu.be/-p_Zbm9c1w0*  
 **→ Conclusiones Clave:** `if (age ≥ 12) {}`  
