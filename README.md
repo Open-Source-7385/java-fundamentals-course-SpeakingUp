@@ -36,7 +36,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### **📖 Lección 3: Estructuras de control: decisiones y bucles (10 minutos)**  
 **→ Descripción:** Toma decisiones con if-else y repite tareas con bucles.  
-**→ Enlaces:** *Ver la lección https://youtu.be/RxWr5BkuqIY*  
+**→ Enlaces:** *Ver la lección https://youtu.be/-p_Zbm9c1w0*  
 **→ Conclusiones Clave:** `if (age ≥ 12) {}`  
 `for (int i=0; i<5; i++)` un bucle sin break puede generar errores 
 
@@ -68,23 +68,22 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **→ Descripción:** Mejores prácticas, errores comunes y dónde aprender más.  
 **→ Enlaces:** *Ver la lección (https://youtu.be/Akx5sEYuSjI)*  
 **→ Conclusiones Clave:** Leer errores; práctica con documentación de Oracle Java.  
-**→ Evalúa tu progreso:** *Examen (nuevo creador) (https://forms.gle/your-form)*
+
 
 ---
 
 ## 📂 Recursos adicionales
 - **Repositorio del curso:** *https://github.com/yourusername/java-fundamentals-course-teamname*
 
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname) 
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/Open-Source-7385/java-fundamentals-course-SpeakingUp) 
 ### Tabla de enlaces completos:
 | Número | Recurso | Enlace |
 |--------|---------|--------|
-| Lección 1 | Replit | https://replit.com/@your-lesson1 |
-| Lección 2 | Replit | https://replit.com/@your-lesson2 |
-| Lección 3 | JDoodle | https://jdoodle.com/your-lesson3 |
+| Lección 1 | OnlineGDB |https://onlinegdb.com/WO06Svo-Y |
+| Lección 2 | OnlineGDB | https://youtu.be/0IKrE8EgCv0|
+| Lección 3 | OnlineGDB | https://onlinegdb.com/zQkzK9q7g1 |
 | Lección 4 | OnlineGDB | https://onlinegdb.com/your-lesson4 |
-| Lección 5 | Replit | https://replit.com/@your-lesson5 |
-| Lección 6 | Formulario | https://forms.gle/your-quiz |
+| Lección 5 | Replit | https://replit.com/join/uxehkouypx-akamicontac10 |
 
 
 **¡Gracias por completar el curso!** 
