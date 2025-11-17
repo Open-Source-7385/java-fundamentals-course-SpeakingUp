@@ -101,6 +101,7 @@ Universidad Peruana de Ciencias Aplicadas
 <br>**Líder del equipo**: Pablo Antonio Geronimo Quispe 
 <br>**Integrantes del equipo**:
 <br>-Geronimo Quispe Pablo Antonio u202314304
+<br>-Vidal Malaga Jareth Beycker u202316878
 <br>- Nombre y Apellido
 <br>**Fecha de entrega:** 16/11/2025
 
