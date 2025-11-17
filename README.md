@@ -75,14 +75,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ## 📂 Recursos adicionales
 - **Repositorio del curso:** *https://github.com/yourusername/java-fundamentals-course-teamname*
 
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/Open-Source-7385/java-fundamentals-course-SpeakingUp) 
 ### Tabla de enlaces completos:
 | Número | Recurso | Enlace |
 |--------|---------|--------|
 | Lección 1 | OnlineGDB |https://onlinegdb.com/WO06Svo-Y |
 | Lección 2 | OnlineGDB | https://youtu.be/0IKrE8EgCv0|
 | Lección 3 | OnlineGDB | https://onlinegdb.com/zQkzK9q7g1 |
-| Lección 4 | OnlineGDB | https://onlinegdb.com/your-lesson4 |
+| Lección 4 | OnlineGDB |https://onlinegdb.com/fwEP9V1VKe |
 | Lección 5 | Replit | https://replit.com/join/uxehkouypx-akamicontac10 |
 
 
