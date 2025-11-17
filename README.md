@@ -50,7 +50,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **→ Enlaces:** *Ver la lección (https://youtu.be/fIdBcXfLA1U)*  
 **→ Conclusiones Clave:** `public static void greet()`  
 `class Pet { String name; }`  
-**→ Prácticas:** *Haz la guía práctica (https://www.onlinegdb.com)*  
+**→ Prácticas:** *Haz la guía práctica (https://onlinegdb.com/fwEP9V1VKe)*  
 **→ ✨ ¡No necesitas registrarte!**
 
 ---
